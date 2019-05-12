@@ -1,3 +1,2 @@
 This is branch_1 branch.
 I will change it later
-this is a new in master
